@@ -4,7 +4,7 @@ import mne
 df = pd.read_csv('data/C10_32Ch_48Subjects_al.csv') 
 
 #From the link above - there is more info on how to define channel type etc for info structure
-n_channels = len(df.columns)    
+n_channels = list(df.columns)
 sampling_freq = 256
 info = mne.create_info(n_channels, sfreq=sampling_freq, ch_types='eeg')
 raw = mne.io.RawArray(df.values.T, info)
@@ -24,3 +24,6 @@ for cutoff in (0.1, 0.2):
                  weight='bold')
 
 input()
+
+
+
