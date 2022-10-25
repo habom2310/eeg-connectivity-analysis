@@ -9,14 +9,24 @@
         "base_id": "app3aPDSN9i0M0lth",
         "table": "tblrYWhDuAkEa13tM"
     },
-    "source_space":{
+    "ss-ROI":{
         "api_key": "keyCniezTf5DZeFo9",
         "base_id": "app3aPDSN9i0M0lth",
         "table": "tblAmj17KcYEgDiQq"
     },
-    "source_space2":{
+    "ss-lobe":{
+        "api_key": "keyCniezTf5DZeFo9",
+        "base_id": "app3aPDSN9i0M0lth",
+        "table": "tblgq2gZCFSs95sRg"
+    },
+    "ss-critical-conn":{
         "api_key": "keyCniezTf5DZeFo9",
         "base_id": "app3aPDSN9i0M0lth",
         "table": "tblYbAxuLijRUFtjD"
+    },
+    "psd":{
+        "api_key": "keyCniezTf5DZeFo9",
+        "base_id": "app3aPDSN9i0M0lth",
+        "table": "tblqQZBcquZNFdhPj"
     }
 }
