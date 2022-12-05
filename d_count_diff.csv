@@ -1,0 +1,11 @@
+,Frontal-rh,Insula-rh,Temporal-rh,Parietal-rh,Occipital-rh,Occipital-lh,Parietal-lh,Temporal-lh,Insula-lh,Frontal-lh
+Frontal-rh,8,1,0,0,3,1,6,1,0,-4
+Insula-rh,0,0,0,0,0,0,0,0,0,-1
+Temporal-rh,4,0,-2,1,3,2,3,-4,1,-3
+Parietal-rh,-1,0,-2,5,-2,-1,5,0,0,4
+Occipital-rh,1,0,2,-1,0,-1,4,-1,0,2
+Occipital-lh,0,0,-2,4,0,0,3,-1,0,2
+Parietal-lh,-1,0,0,4,-2,-2,-2,0,0,-2
+Temporal-lh,5,0,-1,2,-2,-3,3,-6,-2,-2
+Insula-lh,0,1,0,1,0,0,-1,-1,0,2
+Frontal-lh,-5,-1,-1,2,1,1,0,6,0,-2

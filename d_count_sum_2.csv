@@ -1,0 +1,26 @@
+ Frontal-rh Insula-rh Temporal-rh Parietal-rh Occipital-rh Occipital-lh Parietal-lh Temporal-lh Insula-lh Frontal-lh
+Frontal-rh 16 0 0 0 0 0 0 0 0 0
+Insula-rh 1 0 0 0 0 0 0 0 0 0
+Temporal-rh 10 0 4 0 0 0 0 0 0 0
+Parietal-rh 11 0 7 14 0 0 0 0 0 0
+Occipital-rh 6 0 5 7 0 0 0 0 0 0
+Occipital-lh 5 0 6 7 1 0 0 0 0 0
+Parietal-lh 15 0 7 9 8 7 4 0 0 0
+Temporal-lh 12 0 7 8 3 4 9 12 0 0
+Insula-lh 0 1 1 1 0 0 1 5 0 0
+Frontal-lh 25 2 12 18 3 9 12 14 2 20
+
+
+data data data 1 2 3 4 5 6 7 8 9 10
+data data data 181,32,32 221,147,27 67,241,96 65,92,214 199,35,199 199,35,199 65,92,214 67,241,96 221,147,27 181,32,32
+data data data Frontal-rh Insula-rh Temporal-rh Parietal-rh Occipital-rh Occipital-lh Parietal-lh Temporal-lh Insula-lh Frontal-lh
+1 181,32,32 Frontal-rh 16 0 0 0 0 0 0 0 0 0
+2 221,147,27 Insula-rh 1 0 0 0 0 0 0 0 0 0
+3 67,241,96 Temporal-rh 10 0 4 0 0 0 0 0 0 0
+4 65,92,214 Parietal-rh 11 0 7 14 0 0 0 0 0 0
+5 199,35,199 Occipital-rh 6 0 5 7 0 0 0 0 0 0
+6 199,35,199 Occipital-lh 5 0 6 7 1 0 0 0 0 0
+7 65,92,214 Parietal-lh 15 0 7 9 8 7 4 0 0 0
+8 67,241,96 Temporal-lh 12 0 7 8 3 4 9 12 0 0
+9 221,147,27 Insula-lh 0 1 1 1 0 0 1 5 0 0
+10 181,32,32 Frontal-lh 25 2 12 18 3 9 12 14 2 20
